@@ -2,8 +2,8 @@
   var app = cartjs
 
   var t = app.translation
-  t.addressFieldLabel = "Адрес"
-  t.addressFieldPlaceholder = "Введите ваш адрес"
+  t.addressFieldLabel = "Размер"
+  t.addressFieldPlaceholder = "Введите ваш размер"
   t.buyButtonTitle = 'Купить'
   t.cartButtonLabelOne = "товар"
   t.cartButtonLabelFew = "товара"

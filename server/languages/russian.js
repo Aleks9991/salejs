@@ -9,7 +9,7 @@ module.exports = function(app){
     if(order.name)    add("  Имя     " + order.name)
     if(order.phone)   add("  Телефон " + order.phone)
     if(order.email)   add("  Почта   " + order.email)
-    if(order.address) add("  Адрес   " + order.address)
+    if(order.size) add("  Размер   " + order.size)
     add('')
 
     add('Заказал')
